@@ -1,3 +1,5 @@
+
+// Tratando que funcione
 $(document).ready(function() {
     $(window).scroll(function(){
         if ($(this).scrollTop() > 1) {
@@ -8,4 +10,14 @@ $(document).ready(function() {
         }
     });
   });
-  
+
+// Desaparecer
+$(".card").click(function(){
+   $("p").toggle({
+   })
+})
+
+// Agregar un mensaje al mandar formulario (Se puede mejorar con usar el nombre en el mensaje)
+$("#boton").click(function(){
+   alert("Muchas gracias por su mensaje")
+})
