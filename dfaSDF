@@ -1,0 +1,53 @@
+[33mcommit b05aaa055140063ab53b3cc5b64536f63ead7725[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Fri Jul 1 17:18:18 2022 -0400
+
+    Trabajo Listo para Subirse
+
+[33mcommit 08acdc96b8948c19d4b837e714b67c64fb682f88[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 22:46:11 2022 -0400
+
+    Agregar movimiento a las secciones al clickearlas
+
+[33mcommit b19a5d0b865aacd245010929ed49f90b583426b4[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 22:40:06 2022 -0400
+
+    Ocultar tarjetas cuando son tamaños menores a md
+
+[33mcommit 64589ab1a8138766f4ee86a14abf875bc01ac4b8[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 22:35:11 2022 -0400
+
+    Arreglados problemas Formulario y un alert
+
+[33mcommit 75f487c5e6d66defceb0651f1e8ae0be6d279b5c[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 22:28:36 2022 -0400
+
+    agregadas animacionas Javascript
+
+[33mcommit fdb466fd7f38c4d5e2cfa80827c58cbdc45d796f[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 22:20:32 2022 -0400
+
+    Arreglado Navbar v2
+
+[33mcommit d6b4e3d11baf56d94495210b196764d489d79dbe[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 21:15:58 2022 -0400
+
+    Navbar fijado y vuelto transparente
+
+[33mcommit b8cb93101598d28c53e3fac8a67fad58953af831[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 20:45:49 2022 -0400
+
+    Add Navbar Incomplete
+
+[33mcommit 61ef3761ac9bdda3ecd2036b47244310b54adf6d[m
+Author: Ignacio Iglesis <ignacioiglesis@gmail.com>
+Date:   Thu Jun 30 19:49:11 2022 -0400
+
+    Primera Versión
