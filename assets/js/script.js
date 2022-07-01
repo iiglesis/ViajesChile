@@ -1,17 +1,21 @@
 
-// Tratando que funcione
-$(document).ready(function() {
-    $(window).scroll(function(){
-        if ($(this).scrollTop() > 1) {
-           $('.navbar').addClass('box-hover');
-           $('.navbar').removeClass('barra')
-        } else {
-           $('..navbar').removeClass('box-hover');
-        }
-    });
-  });
+// Color en en Navbar
 
-// Desaparecer
+
+$(window).on("scroll", function () {
+   var wn = $(window).scrollTop();
+   if (wn > 700) {
+      $(".navbar").css("background", "black");
+   }
+   else if (wn >50){
+      $(".navbar").css("background", "rgb(33,37,41");
+   }
+   else {
+      $(".navbar").css("background", "transparent");
+   }
+});
+
+// Desaparecer en las tarjetas
 $(".card").click(function(){
    $("p").toggle({
    })
