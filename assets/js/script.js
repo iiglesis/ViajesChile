@@ -16,7 +16,7 @@ $(window).on("scroll", function () {
 });
 
 // Desaparecer en las tarjetas
-$(".card").click(function(){
+$(".tarjetafoto").click(function(){
    $("p").toggle({
    })
 })
