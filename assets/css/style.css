@@ -15,6 +15,10 @@
     */
 }
 
+.box-hover{
+    background-color: black;
+}
+
 #boton{
     color:#FFF
 }
