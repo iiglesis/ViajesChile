@@ -5,7 +5,14 @@
 }
 
 .logo-navbar{
-    width: 8%;
+    width: 3%;
+}
+
+#barra{
+    background-color: transparent;
+    /* Cuando le pongo Fixed TODO SE ROMPE 
+    position:fixed 
+    */
 }
 
 #boton{
