@@ -19,5 +19,5 @@ $(".card").click(function(){
 
 // Agregar un mensaje al mandar formulario (Se puede mejorar con usar el nombre en el mensaje)
 $("#boton").click(function(){
-   alert("Muchas gracias por su mensaje")
+   alert("Muchas gracias por su mensaje, nuestro equipo lo contactará a la brevedad")
 })
