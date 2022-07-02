@@ -1,6 +1,10 @@
+//Tooltip
+var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  return new bootstrap.Tooltip(tooltipTriggerEl)
+})
 
 // Color en en Navbar
-
 
 $(window).on("scroll", function () {
    var wn = $(window).scrollTop();
@@ -17,7 +21,7 @@ $(window).on("scroll", function () {
 
 // Desaparecer en las tarjetas
 $(".tarjetafoto").click(function(){
-   $("p").toggle({
+   $(".card-text").toggle({
    })
 })
 
