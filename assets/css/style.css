@@ -8,6 +8,10 @@
     width: 3%;
 }
 
+.boton-hamburguesa{
+    float:right;
+}
+
 #barra{
     background-color: transparent;
     /* Cuando le pongo Fixed TODO SE ROMPE 
